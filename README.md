@@ -44,4 +44,4 @@ There can be more analysis and tries to:
 -- create a frontend
 -- create a programm in other languages
 -- try to create some kind of freeware program that beats the existing like puran and recuva.
-The commercial version costs about 50 US$
+The commercial versions of recovery software cost about 50 US$
