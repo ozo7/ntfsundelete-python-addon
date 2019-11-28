@@ -1,7 +1,7 @@
 # ntfsundelete-python-addon
 parse and order the recovery information of ntfsundelete => recreating the folder structure
 
-Here is the basic information
+Background: I have actually used that script for myself. I accidentially moved my complete archive of documents from an external drive to another one, just to notice later that the data did not arrive! Since I used a move and not a copy, hundreds of documents and pictures were deleted. There are many recovery programs out there and you can find free ones, the problem is, that they offer you to restore each single file by click, and without folder structure. If you lost a whole archive of documents, the folder structure is part of the value! So I wrote that python script to recover a best guess folder structure of the deleted files and additional handy features. If you have many files that can be restored, you can have name conflicts because the folder structure cannot be restored exactly as it was, it has to be guessed. So this script has actually be used. Contact me if you have problems to use the script and I will create a better step by step guide! send2olaf at yahoo dot de
 
 You can use Linux to undelete files on a NTFS drive / partition.
 The program for this is ntfsundelete .
